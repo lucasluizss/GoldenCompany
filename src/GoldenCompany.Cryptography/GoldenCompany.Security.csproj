@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Cryptography</PackageId>
+    <Product>Cryptography</Product>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lucasluizss/GoldenCompany</RepositoryUrl>
+    <PackageTags>packs;security;cryptography;nuget;dotnet</PackageTags>
+  </PropertyGroup>
+
+</Project>

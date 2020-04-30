@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RepositoryUrl>https://github.com/lucasluizss/GoldenCompany/tree/master/src/GoldenCompany.Results</RepositoryUrl>
+    <PackageProjectUrl>https://www.nuget.org/profiles/lucasluizss</PackageProjectUrl>
+    <PackageTags>results;result;dotnet;</PackageTags>
+    <PackageId>GoldenCompany.Results</PackageId>
+    <Product>Results</Product>
+  </PropertyGroup>
+
+</Project>
